@@ -18,7 +18,7 @@
     cargo install --locked wasm-bindgen-cli
     ```
 
-1. Add wasm32 target
+1. Install WebAssembly target
     ```sh
     rustup target add wasm32-unknown-unknown
     ```
