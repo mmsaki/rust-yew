@@ -25,10 +25,10 @@
 
 ## Getting started
 
-1. Edit the app in [src/](./src)
+1. Edit the app in [src/app.rs](./src/app.rs)
 1. Run the app:
 
     ```sh
     trunk serve --open
     ```
-
+> The app will run on 127.0.0.1/8080/
